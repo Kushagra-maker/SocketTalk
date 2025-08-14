@@ -1,4 +1,4 @@
-# Chat App Using Socket.io and MongoDB
+# Socket Talk - Chat App Using Socket.io and MongoDB
 
 A simple real-time chat application built with Node.js, Express, Socket.io, and MongoDB.  
 This app supports multiple chat rooms, real-time messaging, and typing indicators.
